@@ -1,12 +1,18 @@
 # ismailmoal1i
 
-                    Hi, I'm Ish 👋
+Hi, I'm Ish 👋
+
 IT Support Analyst | Azure | AWS | Linux | Kubernetes | Terraform
 
+💻 About Me
 
-💻 IT Support Analyst currently working at a law firm
-🚀 Transitioning into DevOps with a growing portfolio of hands-on projects
-🌱 Actively building skills in Azure, Terraform, AWS, Docker, and Kubernetes
+🎯 Currently working as an IT Support Analyst at a law firm
+
+🚀 Transitioning into DevOps with hands-on projects in Azure, Terraform, AWS, Docker, and Kubernetes
+
+🛠️ Experienced in IT support, service desk operations, and remote troubleshooting
+
+🔐 Comfortable with Microsoft 365, Intune (MDM), Azure AD (Entra ID), MFA, VPN, and ticketing via Halo PSA
 
 
 🔧 What I Work With
