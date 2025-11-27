@@ -2,7 +2,6 @@
 
 **` IT Support Analyst | Azure | AWS | Linux | Kubernetes | Terraform `**
 
-
 ---
 
 ## 💻 About Me
@@ -33,8 +32,20 @@
 
 ---
 
-📫 Let's Connect  
+## 🐧 Linux Fundamentals – OverTheWire: Bandit
+
+Used this CTF-style wargame to sharpen Linux command-line skills:
+
+- Commands practiced: `ls`, `cat`, `find`, `grep`, `ssh`, `chmod`, `scp`, `base64`, `gzip`, `tar`, and more  
+- Focused on automation, scripting, and problem-solving under pressure  
+- Challenges involved privilege escalation, chaining techniques, and creative logic  
+
+---
+
+## 📫 Let's Connect  
 If you're working on similar projects or have ideas for collaboration, feel free to reach out!
 
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/ismail-m-ali-772ba5299/](https://www.linkedin.com/in/ismail-m-ali-772ba5299/)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/ismail-m-ali-772ba5299/](https://www.linkedin.com/in/ismail-m-ali-772ba5299/)  
+- 💻 **GitHub:** [https://github.com/Ismailmoali1/](https://github.com/Ismailmoali1/)
+
 
