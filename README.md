@@ -1,6 +1,7 @@
-# Hi, I'm Ish 👋
+# Hi, I'm Ismail Ali 👋
 
-**IT Support Analyst | Azure | AWS | Linux | Kubernetes | Terraform**
+**` IT Support Analyst | Azure | AWS | Linux | Kubernetes | Terraform `**
+
 
 ---
 
