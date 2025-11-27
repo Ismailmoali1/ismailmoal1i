@@ -33,6 +33,8 @@
 
 ---
 
-## 📫 Let's Connect
-
+📫 Let's Connect  
 If you're working on similar projects or have ideas for collaboration, feel free to reach out!
+
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/ismail-m-ali-772ba5299/](https://www.linkedin.com/in/ismail-m-ali-772ba5299/)
+
